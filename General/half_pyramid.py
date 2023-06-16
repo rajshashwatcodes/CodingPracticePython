@@ -12,7 +12,6 @@ while counter <= height:
         print(inner_counter, end="")
         # Increment inner counter
         inner_counter += 1
-    # Print new line
     print()
     # Increment counter
     counter += 1
