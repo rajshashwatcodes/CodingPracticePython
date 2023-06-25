@@ -1,3 +1,5 @@
+# A half pyramid program
+
 # Get height from user
 height = int(input("Height: "))
 # Set counter
